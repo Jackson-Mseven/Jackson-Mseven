@@ -2,8 +2,9 @@
 
 ## 👋 个人简介
 - 技术栈：JavaScript/TypeScript
-- 开源项目：[Jackson-Mseven](https://github.com/Jackson-Mseven)
-- 社交链接：[Jackson-Mseven](https://github.com/Jackson-Mseven)
+- QQ：15682000856
+- Wechat：JKfog233
+- Email：bill714@foxmail.com
+- 稀土掘金：https://juejin.cn/user/3274776397489038
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jackson-Mseven&show_icons=true)
