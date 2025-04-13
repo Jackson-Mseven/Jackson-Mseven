@@ -1,5 +1,5 @@
 # Profile
-- 技术栈：JavaScript/TypeScript
+- 技术栈：JavaScript/TypeScript/React/Node
 - QQ：15682000856
 - Wechat：JKfog233
 - Email：bill714@foxmail.com
