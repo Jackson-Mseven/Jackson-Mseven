@@ -9,7 +9,8 @@
 # Project
 - VSCode Code Plugin：[code-snippet-vscode-plugin](https://github.com/Jackson-Mseven/code-snippet-vscode-plugin)
 - Component Library：[kc-components](https://github.com/Jackson-Mseven/kc-components)（ing...）
-- CLI：（tomorrow...）
+- CLI：[kc-cli](https://github.com/Jackson-Mseven/kc-cli)（ing...）
+- Monitoring System：(tomorrow...)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jackson-Mseven&show_icons=true)
