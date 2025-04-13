@@ -1,6 +1,6 @@
 # Profile
 - 技术栈：JavaScript/TypeScript/React/Node
-- QQ：15682000856
+- QQ：1437517225
 - Wechat：JKfog233
 - Email：bill714@foxmail.com
 - 稀土掘金：https://juejin.cn/user/3274776397489038
