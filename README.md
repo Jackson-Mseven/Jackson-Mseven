@@ -10,7 +10,7 @@
 - VSCode Code Plugin：[code-snippet-vscode-plugin](https://github.com/Jackson-Mseven/code-snippet-vscode-plugin)
 - Component Library：[kc-components](https://github.com/Jackson-Mseven/kc-components)（ing...）
 - CLI：[kc-cli](https://github.com/Jackson-Mseven/kc-cli)（ing...）
-- Monitoring System：(tomorrow...)
+- Monitoring System：[kc-monitoring](https://github.com/Jackson-Mseven/kc-monitoring)（ing...）
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jackson-Mseven&show_icons=true)
